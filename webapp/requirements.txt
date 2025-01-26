@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Session
+SQLAlchemy
+cachelib
+flask
+flask-session
+google-generativeai
+gunicorn
+sqlalchemy
+werkzeug
